@@ -1,0 +1,9 @@
+.header{
+    color: red;
+    font-variant: small-caps;
+}
+
+.container{
+    background-color: gray;
+    text-align: left;
+}
